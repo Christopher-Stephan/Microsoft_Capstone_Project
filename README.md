@@ -37,7 +37,7 @@ arxiv.org
 
 2. BERT-Based Content Filtering Recommender (Model 2):
 
-As users begin interacting with the platform, the system employs a BERT-based model to understand the semantic content of articles. By generating embeddings for each article using BERT, the model captures contextual nuances and recommends articles similar in content to those previously read by the user. This approach ensures that recommendations align closely with user interests based on content similarity. ​
+As users begin interacting with the platform, the system employs a BERT-based model to understand the semantic content of articles. By generating embeddings for each article using BERT, the model captures contextual nuances and recommends articles similar in content to those previously read by the user. This approach ensures that recommendations align closely with user interests based on content similarity. ​In order to be able to run it properly, first run BERT_recommender.py, obtain the nrms_bert_state_dict.pkl and then you will be able to have that recommender available when deploying in Streamlit.
 
 3. LLM-Based Recommender with Filtered Content Access (Model 3):
 
