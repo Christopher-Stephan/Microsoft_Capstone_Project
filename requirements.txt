@@ -1,8 +1,9 @@
-matplotlib==3.10.0
-numpy==2.2.3
-pandas==2.2.3
-plotly==6.0.0
-scipy==1.15.2
-seaborn==0.13.2
-scikit-learn==1.2.2
-nbformat>=4.2.0
+streamlit
+openai
+pandas
+numpy
+scikit-learn
+nltk
+pyarrow
+transformers
+torch
