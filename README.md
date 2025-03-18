@@ -8,9 +8,8 @@ Welcome to the SokoMind News Recommender System project! This project aims to de
 3. [Data Preparation and Feature Engineering](#data-preparation-and-feature-engineering)
 4. [Recommender Models](#recommender-models)
 5. [Model Evaluation](#model-evaluation)
-6. [Business Application and ROI](#business-application-and-roi)
-7. [Production and Deployment](#production-and-deployment)
-8. [Future Improvements](#future-improvements)
+6. [Production and Deployment](#production-and-deployment)
+7. [Future Improvements](#future-improvements)
 
 ## Introduction
 This project explores the development of a news recommender system for SokoMind News, aiming to deliver tailored news articles to users. The importance of personalized news recommendations in today's information-rich world is emphasized, and three main approaches in recommender systems are discussed: category frequency, a BERT based model and finally an NLP based news articles search. 
