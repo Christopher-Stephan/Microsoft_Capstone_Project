@@ -1,9 +1,0 @@
-streamlit
-openai
-pandas
-numpy
-scikit-learn
-nltk
-pyarrow
-transformers
-torch
